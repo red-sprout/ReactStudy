@@ -43,5 +43,5 @@
   "devDependencies": {
     "@jridgewell/sourcemap-codec": "^1.4.15"
   },
-  "homepage": "https://red-sprout.github.io/ReactStudy/tree/main/movie-app"
+  "homepage": "https://red-sprout.github.io/ReactStudy"
 }
