@@ -8,7 +8,7 @@ import Detail from "./routes/Detail";
 function App() {
   return <Router>
     <Switch>
-      <Route path="/movie/:id">
+      <Route path="/movie/:id" element={<Home />}>
         <Detail />
       </Route>
       <Route path="/">
